@@ -1,6 +1,8 @@
 body {
-    background-color: blue;
-    color: white; /* This changes the text color to white for better readability */
-    font-family: Arial, sans-serif; /* Optional: Improves the font style */
-    padding: 20px; /* Optional: Adds some padding inside the body for better layout */
+    background-image: url('Images/albumCoverPlayer.jpeg'); /* Adjusted path */
+    background-size: cover;
+    background-position: center;
+    color: white;
+    font-family: Arial, sans-serif;
+    padding: 20px;
 }
