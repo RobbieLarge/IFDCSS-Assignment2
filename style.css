@@ -1,0 +1,6 @@
+body {
+    background-color: blue;
+    color: white; /* This changes the text color to white for better readability */
+    font-family: Arial, sans-serif; /* Optional: Improves the font style */
+    padding: 20px; /* Optional: Adds some padding inside the body for better layout */
+}
