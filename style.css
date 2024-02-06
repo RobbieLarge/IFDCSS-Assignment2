@@ -1,8 +1,29 @@
 body {
-    background-image: url('Images/albumCoverPlayer.jpeg'); /* Adjusted path */
-    background-size: cover;
+    background-color: rgba(254, 254, 254, 0.716);
     background-position: center;
-    color: white;
-    font-family: Arial, sans-serif;
+    color: rgb(0, 0, 0);
+    font-family: 'Open Sans', sans-serif;
     padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    margin: auto;
+    width: 80%;
+    border-bottom: 3px solid black; /* Black space bar underneath the header */
+    padding-bottom: 10px; /* Space between the text and the black bar */
+    font-family: 'Work Sans', sans-serif; /* Using Work Sans for the h1 */
+}
+
+p {
+    text-align: center;
+    margin: auto;
+    width: 80%;
+    margin-bottom: 20px; /* Space between paragraphs */
+    font-family: 'Open Sans', sans-serif; /* Open Sans for paragraphs */
+}
+
+p:first-of-type {
+    margin-top: 40px; /* Bigger space between the header and the first paragraph */
 }
